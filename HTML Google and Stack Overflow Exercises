@@ -1,0 +1,125 @@
+
+Task: Basic HTML Structure
+
+https://www.w3schools.com/html/html_intro.asp
+
+The <!DOCTYPE html> declaration defines that this document is an HTML5 document
+The <html> element is the root element of an HTML page
+The <head> element contains meta information about the HTML page
+The <body> element defines the document's body, and is a container for all the visible contents, such as headings, paragraphs, images, hyperlinks, tables, lists, etc.
+
+Exercise 2: Mastering HTML Elements 
+
+https://stackoverflow.com/questions/4825290/html5-semantic-threaded-comments
+
+https://codeinstitute.net/global/blog/what-is-html-and-why-should-i-learn-it/
+
+A paragraph always starts on a new line, and is usually a block of text.
+
+HTML lists allow web developers to group a set of related items in lists.
+
+Links are found in nearly all web pages. Links allow users to click their way from page to page.
+
+The HTML <img> tag is used to embed an image in a web page.
+
+
+Exercise 3: HTML Forms and Validation
+
+https://www.w3schools.com/html/html_form_input_types.asp
+https://stackoverflow.com/questions/70639527/how-to-make-a-html-form-stack
+
+Exercise 4: HTML Accessibility and Semantics 
+
+https://www.w3schools.com/accessibility/accessibility_semantic_elements.php
+
+ <form>, <table> and <article>
+
+ https://stackoverflow.com/questions/7222638/how-do-i-ensure-that-my-website-is-accessible-to-the-disabled
+
+ Exercise 5: Handling HTML Tables
+
+ https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Styling_tables
+
+ <table>
+  <tr>
+    <th>Company</th>
+    <th>Contact</th>
+    <th>Country</th>
+  </tr>
+  <tr>
+    <td>Alfreds Futterkiste</td>
+    <td>Maria Anders</td>
+    <td>Germany</td>
+  </tr>
+  <tr>
+    <td>Centro comercial Moctezuma</td>
+    <td>Francisco Chang</td>
+    <td>Mexico</td>
+  </tr>
+</table>
+
+https://stackoverflow.com/questions/750101/designing-with-tables/750179#750179
+
+Exercise 1: CSS Fundamentals
+
+https://www.freecodecamp.org/news/how-to-use-css-selectors/
+
+#id 
+.class
+element.class
+
+https://stackoverflow.com/questions/43325543/css-selectors-difference-between-and-when-to-use-or
+
+Exercise 2: Box Model and Layouts
+https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing
+https://stackoverflow.com/questions/50621965/how-to-create-css-box-layouts/50622334
+
+Exercise 3: Flexbox Mastery 
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+https://stackoverflow.com/questions/44623821/how-to-use-flexbox
+
+Exercise 4: Responsive Web Design
+
+https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design
+
+Responsive web design isn't a separate technology — it is an approach. It is a term used to describe a set of best practices used to create a layout that can respond to any device being used to view the content.
+
+https://stackoverflow.com/questions/41924454/responsive-web-design
+
+Exercise 5: CSS Animations and Transitions 
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_transitions/Using_CSS_transitions
+
+https://stackoverflow.com/questions/20586143/css-animation-vs-transition
+
+Exercise 1 : JavaScript Basics 
+https://firmbee.com/variables-and-data-types-in-javascript
+
+String, Boolean, Number
+https://stackoverflow.com/questions/31039085/how-many-data-types-are-there-in-js-and-what-are-they
+
+Exercise 2: Functions and Control Flow 
+https://medium.com/@rianna.cleary/control-flow-in-javascript-9c63d0c98bb9
+
+The if statement is used when we want a block of code to be run as long as the condition it true. Like so:
+
+if (4 * 4 = 16) {
+ console.log('This will run!')
+}
+// 'This will run!'
+
+https://stackoverflow.com/questions/29970260/choosing-effective-function-names
+
+Exercise 3: Asynchronous JavaScript 
+https://blog.greenroots.info/javascript-async-and-await-in-plain-english-please
+
+https://stackoverflow.com/questions/62970655/is-my-understanding-of-asynchronous-operations-correct
+
+Exercise 4: Handling Javascript Errors
+https://appmaster.io/blog/common-javascript-errors-mistakes-solving
+Syntax Errors, Scope Issues, Asynchronous Code Issues
+https://stackoverflow.com/questions/988363/how-can-i-debug-my-javascript-code
+
+Exercise 5: JavaScript DOM Manipulation
+https://www.geeksforgeeks.org/dom-document-object-model/
+Document object: When an HTML document is loaded into a window, it becomes a document object. The ‘document’ object has various properties that refer to other objects which allow access to and modification of the content of the web page. If there is a need to access any element in an HTML page, we always start with accessing the ‘document’ object. Document object is property of window object.
+https://stackoverflow.com/questions/3934826/what-do-people-mean-by-dom-manipulation-and-how-would-i-do-that
